@@ -40,7 +40,7 @@ class SelectionSort
 	// main function
 	public static void main(String[] args) 
 	{
-		System.out.println("\n---------------Bubble Sort----------------");
+		System.out.println("\n---------------Selection Sort----------------");
 		
 		Scanner scan = new Scanner(System.in);
 		System.out.print("Enter no. of Elements: ");
